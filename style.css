@@ -1,0 +1,19 @@
+ *{
+    margin: 0; padding:0; box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ button{   font-size: 17px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    background: linear-gradient(57deg, #00C6A7 , #1E4D92 ); 
+    border-radius: 4px 4px 4px 4px;
+    padding: 20px 35px ; 
+}
+
+
+
+ button:hover{
+      background: linear-gradient(57deg, #1E4D92, #00C6A7 );   
+}
